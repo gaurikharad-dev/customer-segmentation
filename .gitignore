@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+Online Retail.xlsx
+cleaned_retail_data.csv
